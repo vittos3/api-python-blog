@@ -1,0 +1,44 @@
+{
+    "Products": [
+      {
+        "name": "GadgetPro",
+        "price": 199.99
+      },
+      {
+        "name": "SmartWatch X",
+        "price": 149.95
+      },
+      {
+        "name": "UltraPhone",
+        "price": 799.00
+      },
+      {
+        "name": "EcoSpeaker",
+        "price": 59.99
+      },
+      {
+        "name": "HomeAssistant Hub",
+        "price": 129.99
+      },
+      {
+        "name": "FitBand",
+        "price": 39.99
+      },
+      {
+        "name": "Laptop Lite",
+        "price": 499.99
+      },
+      {
+        "name": "NoiseCancel Headphones",
+        "price": 199.00
+      },
+      {
+        "name": "SmartThermostat",
+        "price": 89.99
+      },
+      {
+        "name": "Tablet Plus",
+        "price": 349.00
+      }
+    ]
+  }
